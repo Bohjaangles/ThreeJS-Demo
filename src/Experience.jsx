@@ -48,9 +48,10 @@ export default function Experience() {
                         position={[0, 1.56, -1.4]}
                         rotation-x={-0.256}
                     >
-                        <iframe src='https://haiku4u.vercel.app/'></iframe>
+                        <iframe src={'https://haiku4u.vercel.app/'}></iframe>
                     </Html>
                 </primitive>
+                {/* For the Text on the right hand side */}
                 <Text
                     fonts='./raleway-v28-latin-regular.woff'
                     fontSize={1}
