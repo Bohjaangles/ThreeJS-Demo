@@ -53,7 +53,7 @@ export default function Experience() {
                 </primitive>
                 {/* For the Text on the right hand side */}
                 <Text
-                    fonts='./dancing-script-v24-latin-regular.woff'
+                    font='./playfair-display-v30-latin-regular.woff'
                     fontSize={1}
                     position={[2, 1.05, 0.75]}
                     rotation-y={-1.25}
@@ -62,7 +62,7 @@ export default function Experience() {
                     Russel
                 </Text>
                 <Text
-                    fonts='./dancing-script-v24-latin-regular.woff'
+                    font='./playfair-display-v30-latin-regular.woff'
                     fontSize={1}
                     position={[2, 0.15, 0.75]}
                     rotation-y={-1.25}
